@@ -12,6 +12,7 @@ import FullWidthImage from "../components/FullWidthImage";
 export const IndexPageTemplate = ({
   image,
   title,
+  title2,
   heading,
   subheading,
   mainpitch,
@@ -24,6 +25,7 @@ export const IndexPageTemplate = ({
     <div>
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
       <section className="section section--gradient">
+        {title2}
         <div className="container">
           <div className="section">
             <div className="columns">
