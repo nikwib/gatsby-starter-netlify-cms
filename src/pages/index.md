@@ -1,8 +1,7 @@
 ---
 templateKey: index-page
 title: Great coffee with a Devinova
-title2: Testing title 2döf lasdöfkl alsöädfkakls djf ölkasdjf ölkasdjf
-  ölkasjdföl kjasdölfkj asdölkfj öalsdkjf ölkasdjf lökasdjf ölkasjdfö lkjas
+title2: Testing
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
